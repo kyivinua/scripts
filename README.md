@@ -1,4 +1,4 @@
 "# linux bash script" 
 "# project tree" 
-"# scripts" 
+"# PyQT6" 
 "# scripts" 
